@@ -1,0 +1,29 @@
+${AnsiColor.BRIGHT_GREEN}
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+/**
+ *　　　　　　　　   ┏┓　　　 ┏┓+ +
+ *　　　　　　　      ┏┛┻━━━━━━━━┛┻┓ + +
+ *　　　　　　　      ┃　　　　   ┃ 　
+ *　　　　　　　      ┃　　 ━　 　┃ ++ + + +
+ *　　　　                      ██ ━██┃+
+ *　　　　　　　      ┃　　　　    ┃ +
+ *　　　　　　　	    ┃　　┻　       ┃
+ *　　　　　　　      ┃　　　　    ┃ + +
+ *　　　　　　　      ┗━┓　　　┏━┛
+ *　　　　　　　　　┃　　　┃　　　　　　　　　　　
+ *　　　　　　　　　┃　　　┃ + + + +
+ *　　　　　　　　　┃　　　┃　　　　Code is far away from bug with the animal protecting　　　　　　　
+ *　　　　　　　　　┃　　　┃ + 　　　　神兽保佑,代码无bug　　
+ *　　　　　　　　　┃　　　┃
+ *　　　　　　　　　┃　　　┃　　+　　　　　　　　　
+ *　　　　　　　　　┃　 　　┗━━━┓ + +
+ *　　　　　　　　　┃ 　　　　　　　┣┓
+ *　　　　　　　　　┃ 　　　　　　　┏┛
+ *　　　　　　　　　┗┓┓┏━┳┓┏┛ + + + +
+ *　　　　　　　　　　┃┫┫　┃┫┫
+ *　　　　　　　　　　┗┻┛　┗┻┛+ + + +
+ */
+ ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+${AnsiColor.BRIGHT_RED}
+Application Version: ${application.version}${application.formatted-version}
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
